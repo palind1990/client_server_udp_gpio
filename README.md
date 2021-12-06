@@ -4,6 +4,7 @@
 
 ## Usage
 
+```bash
 # create build folder
 mkdir build
 
@@ -14,6 +15,6 @@ make
 # run (2 terminals)
 sudo ./Client
 sudo ./Server
- 
+ ```
  
 
