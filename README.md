@@ -5,6 +5,9 @@
 ## Usage
 
 ```bash
+# install library
+tlpi-dist
+
 # create build folder
 mkdir build
 
